@@ -1,5 +1,5 @@
 # RotorS Gazebo Simulator
-RotorS is a MAV gazebo simulator forked by [RotorS](https://github.com/ethz-asl/rotors_simulator/).
+RotorS is a MAV gazebo simulator forked from [ethz-asl/rotors_simulator](https://github.com/ethz-asl/rotors_simulator/).
 
 It provides some multirotor models such as the [AscTec Hummingbird](http://www.asctec.de/en/uav-uas-drone-products/asctec-hummingbird/), the [AscTec Pelican](http://www.asctec.de/en/uav-uas-drone-products/asctec-pelican/), or the [AscTec Firefly](http://www.asctec.de/en/uav-uas-drone-products/asctec-firefly/), but the simulator is not limited for the use with these multicopters.
 
